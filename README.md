@@ -18,24 +18,24 @@ This project is a Handwritten Digit Recognition System built using Deep Learning
 
 Handwritten-Digit-Recognition/
 │── dataset/ # Dataset directory
-│ ├── mnist-original.mat# MNIST dataset file
+│ ├── mnist-original.mat # MNIST dataset file
 │
 │── models/# Model-related files
 │ ├── Model.py# Model training and saving
 │ ├── theta1.txt# Pre-trained weights (Layer 1)
 │ ├── theta2.txt# Pre-trained weights (Layer 2)
 │
-│── utils/# Utility functions
+│── utils/ # Utility functions
 │ ├── RandInitialize.py # Weight initialization script
 │ ├── Prediction.py # Function to predict digits
 │
-│── gui/# GUI application
+│── gui/ # GUI application
 │ ├── GUI.py# Tkinter-based user interface
 │
 │── main.py # Main script to run the program
 │── README.md# Project documentation
 │── requirements.txt # Required dependencies
-│── .gitignore # Git ignore file
+
 
 
 ---
